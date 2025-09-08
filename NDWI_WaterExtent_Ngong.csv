@@ -1,0 +1,5 @@
+system:index,NDWI,WaterPct,Year,.geo
+0,-0.25735353835723085,0.05963515557061059,1994,"{""type"":""MultiPoint"",""coordinates"":[]}"
+1,-0.2537358979072609,0.0,2004,"{""type"":""MultiPoint"",""coordinates"":[]}"
+2,-0.2580505738174409,0.0,2014,"{""type"":""MultiPoint"",""coordinates"":[]}"
+3,-0.26099230191548095,0.0,2024,"{""type"":""MultiPoint"",""coordinates"":[]}"
